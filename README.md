@@ -21,8 +21,8 @@
             title="Subscribe to my YouTube channel"
             src="https://img.shields.io/badge/YouTube-grey?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000">
     </a>
-    <a href="https://github.com/SadraKhorami"><img alt="star" title="SadraKhorami users star"
-            src="https://img.shields.io/github/stars/SadraKhorami?color=DADADA&logo=github&style=for-the-badge" /></a>
+<!--     <a href="https://github.com/SadraKhorami"><img alt="star" title="SadraKhorami users star"
+            src="https://img.shields.io/github/stars/SadraKhorami?color=DADADA&logo=github&style=for-the-badge" /></a> -->
  <a href="https://twitter.com/GNIX_CO"><img alt="followers" title="Follow me on Twitter"
             src="https://img.shields.io/twitter/follow/GNIX_CO?color=2493F4&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" /></a>
 </p>
