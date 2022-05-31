@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://discord.gg/QhxE9pwwuM"><img src="https://cdn.discordapp.com/attachments/859453855090475019/862415526080675850/gbanner3.png"
+    <a href="[https://discord.gg/dWjWdSkTth](https://discord.gg/dWjWdSkTth)"><img src="https://cdn.discordapp.com/attachments/859453855090475019/862415526080675850/gbanner3.png"
             alt="github.com/SadraKhorami" /></a>
 </div>
 <h3 align="center">Hey there, I'm <a href="https://foxteam.ir/">Sadra Khorami</a> - Mr.Fox <img
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://discord.gg/QhxE9pwwuM" target="_blank">
+    <a href="https://discord.gg/dWjWdSkTth" target="_blank">
         <img
             title="Join to my discord server"
             src="https://img.shields.io/badge/DISCORD-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662F6">
