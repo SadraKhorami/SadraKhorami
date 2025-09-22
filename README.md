@@ -86,5 +86,3 @@ I occasionally publish breakdowns, demos, and dev logs on **YouTube**:
 
 ---
 
-• Or self-host the providers on Vercel: <i>anuraghazra/github-readme-stats</i>, <i>denvercoder1/github-readme-streak-stats</i>, <i>ryo-ma/github-profile-trophy</i>.
-</sub>
