@@ -86,9 +86,5 @@ I occasionally publish breakdowns, demos, and dev logs on **YouTube**:
 
 ---
 
-<sub>
-💡 <b>If stats widgets don’t load:</b> it’s usually rate limiting on public instances.<br/>
-• Make sure the username is correct (currently <code>khoramii</code>).<br/>
-• Try adding <code>&cache_seconds=7200</code> to the card URLs.<br/>
 • Or self-host the providers on Vercel: <i>anuraghazra/github-readme-stats</i>, <i>denvercoder1/github-readme-streak-stats</i>, <i>ryo-ma/github-profile-trophy</i>.
 </sub>
