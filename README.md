@@ -1,57 +1,94 @@
-<div align="center">
-    <a href="[https://discord.gg/dWjWdSkTth](https://discord.gg/dWjWdSkTth)"><img src="https://cdn.discordapp.com/attachments/859453855090475019/862415526080675850/gbanner3.png"
-            alt="github.com/SadraKhorami" /></a>
-</div>
-<h3 align="center">Hey there, I'm <a href="https://foxteam.ir/">Sadra Khorami</a> - Mr.Fox <img
-        src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" />
-</h3>
+<!-- If your GitHub handle is not 'khoramii', replace it below. -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khoramii&style=for-the-badge" alt="profile views" />
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://linkedin.com/in/khoramii">Sadra Khorami</a> 👋</h1>
 
 <p align="center">
-    <a href="https://discord.gg/dWjWdSkTth" target="_blank">
-        <img
-            title="Join to my discord server"
-            src="https://img.shields.io/badge/DISCORD-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662F6">
-    </a>
-    <a href="https://instagram.com/crazyfox.exe" target="_blank">
-        <img
-            title="Follow My Instagram"
-            src="https://img.shields.io/badge/instagram-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=F15680">
-    </a>
-    <a href="https://www.youtube.com/channel/UCBMJwahXUrfuIezLXUDZGyw?sub_confirmation=1"><img
-            title="Subscribe to my YouTube channel"
-            src="https://img.shields.io/badge/YouTube-grey?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000">
-    </a>
-<!--     <a href="https://github.com/SadraKhorami"><img alt="star" title="SadraKhorami users star"
-            src="https://img.shields.io/github/stars/SadraKhorami?color=DADADA&logo=github&style=for-the-badge" /></a> -->
- <a href="https://twitter.com/GNIX_CO"><img alt="followers" title="Follow me on Twitter"
-            src="https://img.shields.io/twitter/follow/GNIX_CO?color=2493F4&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <b>Age:</b> 24 · Full-stack Product Builder (Web + Mobile + Backend + Automation)
 </p>
 
-## About me :
-My interest and expertise is mostly programming and I try to be at least up to date in my specialty. In life and work I have a series of rules for myself that I always try to follow.
-* 💻 full stack web developer
-* 🎨 self-taught UI designer
-* 🎓 computer engineer student (graduating in October 2020)
-<p align="left">
-  <a href="mailto:support@foxteam.ir"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-support@foxteam.ir-1A1A1A?style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a>
-    <a href="https://foxteam.ir/"><img alt="MyWebSite" src="https://img.shields.io/badge/-My%20Website-1A1A1A?style=for-the-badge&logo=InternetExplorer&logoColor=white"/></a>
-</p>
-
-
-  <strong><h2>My Github Stats : </h2></strong>
-<br>
 <p align="center">
-  <a href="https://github.com/SadraKhorami">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadraKhorami&show_icons=true&hide_border=true&title_color=19F68B&amp&icon_color=19F68B&amp&text_color=A0A0A0&amp&bg_color=191919&count_private=true&include_all_commits=true"/>
-  </a>
-    <br><br>
-  <a href="https://github.com/SadraKhorami">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKhorami&text_color=A0A0A0&bg_color=191919&title_color=19F68B&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+  <a href="https://linkedin.com/in/khoramii"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://dribbble.com/sadrakhorami"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge"></a>
+  <a href="https://t.me/amo_sadra"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@SadraKhorami"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
 </p>
-</details>
-<br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SadraKhorami&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <i>Discord:</i> <code>wise.fox</code>
+</p>
 
-<br/>
+---
+
+## 🚀 What I Do
+I design and build end-to-end products that combine **clean UX**, **robust web/mobile apps**, and **automation**:
+- **Web apps** (Next.js/React), **Mobile apps** (React Native/Expo)
+- **Backends** (Node.js/Express/Nest, REST/Swagger), **databases** (Postgres/Mongo/Redis)
+- **WordPress/WooCommerce** plugins with external APIs & order workflows
+- **Automation** with **n8n**, CI/CD, chat/ops integrations
+- **Trading data tooling** (signal scoring, filtering, reporting)
+
+---
+
+## 🔭 Current Focus
+- **Daberbox** — a cross-platform app + realtime game room (WebSocket), API with Swagger, WooCommerce auto-redeem.
+- **Trading & copy-trading tooling** — Node.js + n8n pipelines for screening (gain/drawdown/frequency), scoring, and alerts.
+- **AI-assisted dev** — prompt engineering, agents, and data pipelines for faster product iteration.
+
+---
+
+## 🧰 Toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,reactnative,expo,tailwind,redux,nodejs,express,nest,postgres,redis,mongodb,prisma,python,docker,nginx,cloudflare,aws,gcp,vercel,figma,git,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<!-- Tip: If a card doesn't load immediately, it's usually rate limits. Try again later or self-host (notes below). -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoramii&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=khoramii&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoramii&layout=compact&langs_count=8&hide=html,css&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khoramii&no-bg=true&no-frame=true&column=4" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🗂 Featured Themes
+- **Web + Realtime:** Next.js/React UI, shared types, websockets, graceful state sync.
+- **Mobile:** Expo Router, custom fonts, audio cues, OTA updates.
+- **Commerce Automation:** WooCommerce ↔ external API (auto-redeem, order status, Telegram notifications).
+- **Data & Trading:** Myfxbook/MQL5 parsing, quality filters, weekly activity checks, ranking models.
+- **Infra & DX:** CI/CD, linting/formatting, typed APIs (OpenAPI), observability.
+
+---
+
+## 🎥 Content
+I occasionally publish breakdowns, demos, and dev logs on **YouTube**:  
+👉 <a href="https://www.youtube.com/@SadraKhorami">youtube.com/@SadraKhorami</a>
+
+---
+
+## 📬 Contact
+- LinkedIn: <a href="https://linkedin.com/in/khoramii">linkedin.com/in/khoramii</a>  
+- Dribbble: <a href="https://dribbble.com/sadrakhorami">dribbble.com/sadrakhorami</a>  
+- Telegram: <a href="https://t.me/amo_sadra">t.me/amo_sadra</a>  
+- Discord: <code>wise.fox</code>
+
+---
+
+<sub>
+💡 <b>If stats widgets don’t load:</b> it’s usually rate limiting on public instances.<br/>
+• Make sure the username is correct (currently <code>khoramii</code>).<br/>
+• Try adding <code>&cache_seconds=7200</code> to the card URLs.<br/>
+• Or self-host the providers on Vercel: <i>anuraghazra/github-readme-stats</i>, <i>denvercoder1/github-readme-streak-stats</i>, <i>ryo-ma/github-profile-trophy</i>.
+</sub>
