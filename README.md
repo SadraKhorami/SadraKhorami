@@ -49,16 +49,15 @@ I design and build end-to-end products that combine **clean UX**, **robust web/m
 ## 📈 GitHub Stats
 <!-- Tip: If a card doesn't load immediately, it's usually rate limits. Try again later or self-host (notes below). -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoramii&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=khoramii&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SadraKhorami&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoramii&layout=compact&langs_count=8&hide=html,css&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKhorami&layout=compact&langs_count=8&hide=html,css&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khoramii&no-bg=true&no-frame=true&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SadraKhorami&no-bg=true&no-frame=true&column=4" alt="GitHub trophies" />
 </p>
 
 ---
