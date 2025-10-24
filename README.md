@@ -46,22 +46,6 @@ I design and build end-to-end products that combine **clean UX**, **robust web/m
 
 ---
 
-## 📈 GitHub Stats
-<!-- Tip: If a card doesn't load immediately, it's usually rate limits. Try again later or self-host (notes below). -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SadraKhorami&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKhorami&layout=compact&langs_count=8&hide=html,css&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SadraKhorami&no-bg=true&no-frame=true&column=4" alt="GitHub trophies" />
-</p>
-
----
-
 ## 🗂 Featured Themes
 - **Web + Realtime:** Next.js/React UI, shared types, websockets, graceful state sync.
 - **Mobile:** Expo Router, custom fonts, audio cues, OTA updates.
@@ -79,7 +63,7 @@ I occasionally publish breakdowns, demos, and dev logs on **YouTube**:
 
 ## 📬 Contact
 - LinkedIn: <a href="https://linkedin.com/in/khoramii">linkedin.com/in/khoramii</a>  
-- Dribbble: <a href="https://dribbble.com/sadrakhorami">dribbble.com/sadrakhorami</a>  
+- portfolio: <a href="https://khorami.dev">khorami.dev</a>  
 - Telegram: <a href="https://t.me/amo_sadra">t.me/amo_sadra</a>  
 - Discord: <code>wise.fox</code>
 
