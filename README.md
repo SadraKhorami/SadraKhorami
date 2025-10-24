@@ -3,14 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=khoramii&style=for-the-badge" alt="profile views" />
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://linkedin.com/in/khoramii">Sadra Khorami</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://khorami.dev">Sadra Khorami</a> 👋</h1>
 
 <p align="center">
   <b>Age:</b> 24 · Full-stack Product Builder (Web + Mobile + Backend + Automation)
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/khoramii"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://dribbble.com/sadrakhorami"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge"></a>
   <a href="https://t.me/amo_sadra"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.youtube.com/@SadraKhorami"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
@@ -62,7 +61,6 @@ I occasionally publish breakdowns, demos, and dev logs on **YouTube**:
 ---
 
 ## 📬 Contact
-- LinkedIn: <a href="https://linkedin.com/in/khoramii">linkedin.com/in/khoramii</a>  
 - portfolio: <a href="https://khorami.dev">khorami.dev</a>  
 - Telegram: <a href="https://t.me/amo_sadra">t.me/amo_sadra</a>  
 - Discord: <code>wise.fox</code>
