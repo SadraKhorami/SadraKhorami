@@ -1,0 +1,74 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sadra Khorami</title>
+  <desc id="desc">Full-stack developer building useful products, reliable backends and practical automation.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="40" y1="20" x2="1240" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070912" />
+      <stop offset="0.52" stop-color="#0C1020" />
+      <stop offset="1" stop-color="#11172A" />
+    </linearGradient>
+    <linearGradient id="accent" x1="390" y1="100" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" />
+      <stop offset="0.5" stop-color="#7C3AED" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientTransform="translate(235 78) rotate(31) scale(340 230)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1110 310) rotate(-143) scale(360 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C4B5FD" stroke-opacity="0.055" />
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.32" />
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#background)" />
+  <rect width="1280" height="360" rx="28" fill="url(#purpleGlow)" />
+  <rect width="1280" height="360" rx="28" fill="url(#cyanGlow)" />
+  <rect width="1280" height="360" rx="28" fill="url(#grid)" />
+  <rect x="1" y="1" width="1278" height="358" rx="27" stroke="#A78BFA" stroke-opacity="0.18" stroke-width="2" />
+
+  <g filter="url(#shadow)">
+    <rect x="76" y="66" width="72" height="72" rx="20" fill="#12182A" />
+    <rect x="76.75" y="66.75" width="70.5" height="70.5" rx="19.25" stroke="url(#accent)" stroke-width="1.5" />
+    <path d="M96 94L106 102L96 110M114 114H128" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <rect x="173" y="69" width="224" height="32" rx="16" fill="#171C2D" />
+  <circle cx="191" cy="85" r="4" fill="#22D3EE" />
+  <text x="205" y="90" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="650" letter-spacing="1.5">FULL-STACK DEVELOPER</text>
+
+  <text x="76" y="202" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="750" letter-spacing="-2.6">Sadra Khorami</text>
+  <rect x="77" y="220" width="526" height="5" rx="2.5" fill="url(#accent)" />
+  <text x="76" y="271" fill="#AEB8CC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="450">Useful products · Reliable backends · Practical automation</text>
+
+  <g opacity="0.96">
+    <rect x="916" y="71" width="278" height="218" rx="22" fill="#0A0E19" fill-opacity="0.86" />
+    <rect x="916.75" y="71.75" width="276.5" height="216.5" rx="21.25" stroke="#94A3B8" stroke-opacity="0.18" stroke-width="1.5" />
+    <circle cx="943" cy="96" r="5" fill="#FB7185" />
+    <circle cx="962" cy="96" r="5" fill="#FBBF24" />
+    <circle cx="981" cy="96" r="5" fill="#34D399" />
+    <path d="M944 133H1039" stroke="#7C3AED" stroke-width="8" stroke-linecap="round" />
+    <path d="M944 160H1139" stroke="#475569" stroke-width="8" stroke-linecap="round" />
+    <path d="M944 187H1098" stroke="#475569" stroke-width="8" stroke-linecap="round" />
+    <path d="M944 214H1119" stroke="#475569" stroke-width="8" stroke-linecap="round" />
+    <path d="M944 241H1030" stroke="#22D3EE" stroke-width="8" stroke-linecap="round" />
+    <path d="M1050 241H1158" stroke="#475569" stroke-width="8" stroke-linecap="round" />
+  </g>
+
+  <g opacity="0.72">
+    <circle cx="862" cy="114" r="5" fill="#A78BFA" />
+    <path d="M862 119V155C862 165 870 173 880 173H895" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" />
+    <circle cx="895" cy="173" r="4" fill="#A78BFA" />
+    <circle cx="1225" cy="220" r="5" fill="#22D3EE" />
+    <path d="M1225 215V176C1225 166 1217 158 1207 158H1196" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" />
+    <circle cx="1196" cy="158" r="4" fill="#22D3EE" />
+  </g>
+</svg>
