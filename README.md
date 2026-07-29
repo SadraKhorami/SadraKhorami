@@ -1,70 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:111827&height=80&text=Sadra%20Khorami&fontColor=F9FAFB&fontSize=50&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Large-Scale%20Platform%20Engineer&descAlign=50&descAlignY=85" alt="Sadra Khorami Banner"/>
+  <img src="./assets/profile-header.svg" width="100%" alt="Sadra Khorami, full-stack developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1600&center=true&vCenter=true&width=720&lines=AI+that+edits+AI;Autonomous+systems+that+self-monitor+%26+self-heal;Multi-agent+orchestration+for+mission-critical+workflows" alt="typing"/>
+  <a href="https://khorami.dev"><img src="https://img.shields.io/badge/Portfolio-khorami.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/khoramii/"><img src="https://img.shields.io/badge/LinkedIn-khoramii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/amo_sadra"><img src="https://img.shields.io/badge/Telegram-amo__sadra-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/amo.sadra/"><img src="https://img.shields.io/badge/Instagram-amo.sadra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+## Hey, I'm Sadra.
+
+I'm a full-stack developer who likes building practical software: web products, APIs, bots, and small automations that solve a clear problem.
+
+Most of my recent work is in **TypeScript and Next.js** or **PHP and Laravel**. I care about clean interfaces, predictable backend behavior, and software that is easy to run and maintain.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Veyra</h3>
+      <p>A responsive product site for a social media management platform, with custom branding, animated sections, pricing, and authentication screens.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+      <p><a href="https://veyra-ai-wheat.vercel.app">Live demo</a> · <a href="https://github.com/SadraKhorami/veyra-ai">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TeleCast API</h3>
+      <p>A REST API for Telegram bots and campaigns, with queued delivery, scheduling, idempotency, Redis locks, webhooks, and OpenAPI documentation.</p>
+      <p><code>Laravel</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
+      <p><a href="https://github.com/SadraKhorami/telecast-api">View repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>FXPulse</h3>
+      <p>A Discord bot for live FX and commodity snapshots, watchlists, interactive controls, and voice-channel tickers backed by MongoDB.</p>
+      <p><code>Node.js</code> <code>discord.js</code> <code>MongoDB</code></p>
+      <p><a href="https://github.com/SadraKhorami/fxpulse">View repository</a></p>
+    </td>
+  </tr>
+</table>
+
+## Tools I use
 
 <p align="center">
-  <a href="https://khorami.dev"><img src="https://img.shields.io/badge/Website-khorami.dev-111827?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://discordapp.com/users/750517144432934972"><img src="https://img.shields.io/badge/Discord-wise.fox-111827?style=for-the-badge&logo=discord" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SadraKhorami&style=for-the-badge&color=0E9F6E" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,php,laravel,py,postgres,redis,mongodb,docker,nginx,git&perline=14" alt="TypeScript, Next.js, React, Tailwind CSS, Node.js, PHP, Laravel, Python, PostgreSQL, Redis, MongoDB, Docker, Nginx and Git" />
+  </a>
 </p>
 
----
+## Say hello
 
-## Executive Summary
-I design and ship **autonomous, self-optimizing software systems**—from strategy to production. My work reduces operational drag, **cuts manual toil**, and **increases reliability** using agentic architectures, rigorous evaluation loops, and observability-by-design.
+If you want to talk about a product, an API, or an automation idea, the quickest ways to reach me are [Telegram](https://t.me/amo_sadra) and [LinkedIn](https://www.linkedin.com/in/khoramii/).
 
-- **Outcome-first:** measurable time-to-autonomy, SLO adherence, and failure recovery benchmarks.  
-- **Agentic-by-default:** multi-agent coordination with guardrails, audits, and closed-loop learning.  
-- **Production-grade:** zero-downtime rollouts, progressive delivery, and resilient data flows.
-
----
-
-## Focus Areas
-| Area | What I Deliver |
-| --- | --- |
-| **AI Automation** | Multi-agent orchestration, policy/guardrail layers, automatic evaluation (quality, safety, drift) |
-| **Back-End Systems** | Event-driven services (Go/Node), low-latency APIs, streaming, queues, idempotent pipelines |
-| **Observability** | Metric/trace-first design, anomaly detection, SLO dashboards, self-heal hooks |
-| **Platform Ops** | Docker, Kubernetes, GitOps, progressive rollout, secure Secrets & config |
-| **Data Layer** | Postgres, Redis, Vector DBs, schema/version control, durability & backup strategies |
-
----
-
-## Operating Principles
-- **Design for autonomy**: every workflow has **owner agents** + **watcher agents** + **evaluator agents**.  
-- **Bias for reliability**: golden paths, circuit breakers, **graceful degradation**.  
-- **Evidence over opinion**: decisions flow from **telemetry**, not vibes.  
-- **Tight feedback loops**: small changes, measurable impact, fast rollback.
-
----
-
-## Architecture Playbook (Highlights)
-- ⚙️ **Orchestration:** event buses, fan-out/fan-in, CRON + on-demand triggers, human-in-the-loop **only when needed**.  
-- 🧠 **Agents:** role-specialized, tool-aware, with persistent memory + retrieval, **audit trails** for every action.  
-- 🛡 **Safety & Quality:** policy checks, sandboxing, offline simulation runs, **A/B validation** against ground-truth.  
-- 📈 **Observability:** SLIs/SLOs defined at inception, auto-ticket on breach, **self-heal runbooks** attached to alerts.  
-
----
-
-## Live Metrics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SadraKhorami&show_icons=true&theme=merko&hide_border=true" alt="stats"/>
-  <img width="51%" src="https://github-readme-activity-graph.vercel.app/graph?username=SadraKhorami&theme=merko&hide_border=true&area=true" alt="activity-graph"/>
-</p>
-
-
-## Engagement Model
-- **Define outcomes & SLOs:** success metrics upfront (latency, error budgets, automation coverage).  
-- **Architect & simulate:** model agents + workflows, run failure simulations and load tests.  
-- **Deliver & measure:** ship with progressive delivery and **observable impact**.  
-- **Iterate toward autonomy:** expand agent responsibilities, shrink human touch points.
-
----
-
-## Contact
-- Portfolio: https://khorami.dev  
-- Linkedin: https://linkedin.com/in/khoramii
+You can find the rest of my work at [khorami.dev](https://khorami.dev) and [github.com/SadraKhorami](https://github.com/SadraKhorami).
