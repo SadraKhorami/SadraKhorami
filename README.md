@@ -26,14 +26,20 @@ Most of my recent work is in **TypeScript and Next.js** or **PHP and Laravel**. 
       <p><a href="https://veyra-ai-wheat.vercel.app">Live demo</a> · <a href="https://github.com/SadraKhorami/veyra-ai">Source code</a></p>
     </td>
     <td width="50%" valign="top">
+      <h3>Contact Studio</h3>
+      <p>An offline-first Persian desktop contact manager with groups, analytics, CSV and PDF tools, portable backups, and an interactive referral graph.</p>
+      <p><code>Tauri</code> <code>React</code> <code>TypeScript</code> <code>Rust</code></p>
+      <p><a href="https://github.com/SadraKhorami/contact-studio">View repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>TeleCast API</h3>
       <p>A REST API for Telegram bots and campaigns, with queued delivery, scheduling, idempotency, Redis locks, webhooks, and OpenAPI documentation.</p>
       <p><code>Laravel</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
       <p><a href="https://github.com/SadraKhorami/telecast-api">View repository</a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>FXPulse</h3>
       <p>A Discord bot for live FX and commodity snapshots, watchlists, interactive controls, and voice-channel tickers backed by MongoDB.</p>
       <p><code>Node.js</code> <code>discord.js</code> <code>MongoDB</code></p>
